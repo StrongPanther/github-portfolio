@@ -15,5 +15,5 @@ After mauseover, the tab is expanding and the button is lighted. The other one i
 Project 3 - Animated Navigation
 html, css, javascript 
 
-After clicking the button, the navigation is toggled to open and closed. 
+After clicking the button, the navigation is toggled to be opened and closed. 
 
